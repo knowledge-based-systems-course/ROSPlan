@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import rospy, copy
 from rosplan_knowledge_msgs.msg import DomainFormula, DomainOperator, KnowledgeItem
